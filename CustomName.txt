@@ -1,0 +1,2 @@
+# How to create a blank solution without a folder
+* dotnet new sln -n CustomName
